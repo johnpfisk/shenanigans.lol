@@ -1,10 +1,11 @@
 ---
-layout: blog
+layout: page
+show_meta: false
 title: "Shenanigans.lol Stories"
-teaser: "This is the Shenanigans.lol Stories Template"
+subheadline: "This is the Shenanigans.lol Stories Template"
 header:
     image_fullwidth: "header-bus.jpg"
-    permalink: /stories/
+permalink: "/stories/"
 ---
 <ul>
     {% for post in site.categories.stories %}

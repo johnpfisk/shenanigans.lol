@@ -1,10 +1,11 @@
 ---
-layout: blog
+layout: page
+show_meta: false
 title: "Shenanigans.lol Video Articles"
-teaser: "This is the Shenanigans.lol Video Article Template"
+subheadline: "This is the Shenanigans.lol Video Article Template"
 header:
     image_fullwidth: "header-bus.jpg"
-    permalink: /videos/
+permalink: "/videos/"
 ---
 <ul>
     {% for post in site.categories.videos %}
