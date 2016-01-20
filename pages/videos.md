@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Shenanigans.lol Video Articles"
-subheadline: "This is the Shenanigans.lol Video Article Template"
+title: "Videos"
+subheadline: "Shenanigans.lol Videos"
 header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/videos/"

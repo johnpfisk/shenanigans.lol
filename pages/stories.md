@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Shenanigans.lol Stories"
-subheadline: "This is the Shenanigans.lol Stories Template"
+title: "Stories"
+subheadline: "Shenanigans.lol Stories"
 header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/stories/"
