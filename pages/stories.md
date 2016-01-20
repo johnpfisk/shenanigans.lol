@@ -9,8 +9,4 @@ header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/stories/"
 ---
-<ul>
-    {% for post in site.categories.stories %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{% include list-posts entries='5' category='stories' %}
