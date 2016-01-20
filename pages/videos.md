@@ -6,6 +6,7 @@ show_meta: false
 title: "Videos"
 subheadline: "High Spirited&hellip;"
 header:
+	image: "logo.png"
     background-color: "#F0F0F0;"
 permalink: "/videos/"
 ---
