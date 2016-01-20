@@ -5,9 +5,8 @@ breadcrumb: true
 show_meta: false
 title: "Videos"
 subheadline: "High Spirited&hellip;"
-permalink: "/videos/"
 header:
-	image: "logo.png"
-    background-color: "#F0F0F0"
+    image_fullwidth: "shenanigans-video.jpg"
+permalink: "/videos/"
 ---
 {% include list-posts entries='5' category='videos' %}
