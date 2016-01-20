@@ -21,7 +21,6 @@ image:
     caption: Photo by Corey Blaz
     caption_url: https://blaz.photography/
 mediaplayer: true
-published: false
 ---
 <div class="flex-video">
 <video width="640" height="360" id="player1" preload="none">
