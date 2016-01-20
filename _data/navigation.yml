@@ -1,0 +1,19 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Videos
+  url: "/videos/"
+  side: left
+
+- title: Pictures
+  url: "/pictures/"
+  side: left
+
+- title: Stories
+  url: "/stories/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
