@@ -1,6 +1,3 @@
-- title: Start
-  url: "/"
-  side: left
 
 - title: Videos
   url: "/videos/"
@@ -14,6 +11,16 @@
   url: "/stories/"
   side: left
 
+- title: Everything
+  url: "/articles/"
+  side: left
+
+- title: Home
+  url: "/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
+
+  
