@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Pictures"
-subheadline: "Shenanigans.lol Pictures"
+subheadline: "Silly&hellip;"
 header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/pictures/"

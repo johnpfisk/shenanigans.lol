@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: blog
 show_meta: false
 title: "Videos"
-subheadline: "Shenanigans.lol Videos"
+subheadline: "High Spirited&hellip;"
 header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/videos/"
