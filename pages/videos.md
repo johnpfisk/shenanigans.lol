@@ -7,6 +7,6 @@ title: "Videos"
 subheadline: "High Spirited&hellip;"
 permalink: "/videos/"
 header:
-	background-color: "#f0f0f0"
+    background-color: "#f0f0f0"
 ---
 {% include list-posts entries='5' category='videos' %}
