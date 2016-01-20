@@ -14,8 +14,8 @@ tags:
 #
 mediaplayer: true
 ---
-<video width="640" height="360" id="player1" preload="none">
-    <source type="video/youtube" src="https://www.youtube.com/watch?v=pOZBbPCcDSs" />
-</video>
+<div class="flex-video widescreen youtube"> <iframe width="420" height="315" src="//www.youtube.com/embed/p0ZBbPCcDSs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 [James Kingston](http://www.jameskingston.co.uk/ "jameskingston.co.uk")
 
