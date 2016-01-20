@@ -5,8 +5,9 @@ breadcrumb: true
 show_meta: false
 title: "Pictures"
 subheadline: "Silly&hellip;"
-header:
-    image_fullwidth: "shenanigans-cat.jpg"
 permalink: "/pictures/"
+header:
+    image: "logo.png"
+    background-color: "#A1D044"
 ---
 {% include list-posts entries='5' category='pictures' %}
