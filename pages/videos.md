@@ -8,6 +8,6 @@ subheadline: "High Spirited&hellip;"
 permalink: "/videos/"
 header:
     image: "logo.png"
-    background-color: "#A1D044"
+    background-color: "#45B29D"
 ---
 {% include list-posts entries='5' category='videos' %}

@@ -8,6 +8,6 @@ subheadline: "Silly&hellip;"
 permalink: "/pictures/"
 header:
     image: "logo.png"
-    background-color: "#A1D044"
+    background-color: "#EFC94C"
 ---
 {% include list-posts entries='5' category='pictures' %}
