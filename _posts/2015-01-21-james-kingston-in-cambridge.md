@@ -1,25 +1,17 @@
 ---
-layout: post
+layout: page
 #
 # Content
 #
 subheadline: "James Kingston doing his stuff on the rooftops of Cambridge"
 title: "James Kingston POV, Cambridge UK"
-categories:
-  - videos
+category: videos
 tags:
   - POV
   - Parkour
 #
 # Styling
 #
-header: no
-image:
-    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
 mediaplayer: true
 ---
 <div class="flex-video">
