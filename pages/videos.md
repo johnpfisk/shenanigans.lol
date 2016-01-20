@@ -9,5 +9,4 @@ header:
     image_fullwidth: "header-bus.jpg"
 permalink: "/videos/"
 ---
-<!-- JPF -->
 {% include list-posts entries='5' category='videos' %}
