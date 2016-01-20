@@ -1,5 +1,7 @@
 ---
-layout: blog
+layout: page
+sidebar: right
+breadcrumb: true
 show_meta: false
 title: "Videos"
 subheadline: "High Spirited&hellip;"

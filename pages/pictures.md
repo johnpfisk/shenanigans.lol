@@ -1,5 +1,7 @@
 ---
 layout: page
+sidebar: right
+breadcrumb: true
 show_meta: false
 title: "Pictures"
 subheadline: "Silly&hellip;"
