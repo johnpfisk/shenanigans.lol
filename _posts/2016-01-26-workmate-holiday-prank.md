@@ -12,7 +12,7 @@ mediaplayer: true
 image:
     title: shen-man-gardener-008.jpg
     thumb: shen-man-gardener-008.jpg
-teaser: "There's a little bit of fun to be had when your coworkers are on holiday&hellip;"
+teaser: "There's a little bit of fun to be had when your coworkers are on holiday…"
 ---
 Some simple fun you can have with your coworkers keyboard while they're on holiday!
 
