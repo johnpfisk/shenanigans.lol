@@ -8,7 +8,6 @@ tags:
   - Parkour
 mediaplayer: true
 image:
-    title: shen-man-gym-001.jpg
     thumb: shen-man-gym-001.jpg
 ---
 James Kingston, the impressive free runner, gives us a guided tour of the roofs above Cambridge, UK.
