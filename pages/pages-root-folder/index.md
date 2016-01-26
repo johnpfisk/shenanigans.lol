@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+permalink: /index.html
 header:
   image_fullwidth: "shen-bg-001.jpg"
 widget1:
@@ -36,7 +37,6 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-#  permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
