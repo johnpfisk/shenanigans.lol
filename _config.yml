@@ -119,6 +119,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: TheShenanigan     # Default author for posts
+      share: true
 
 
 
