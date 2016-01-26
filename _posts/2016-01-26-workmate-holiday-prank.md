@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Holiday Fun"
+subheadline: "Holidays"
 title: "Prank to Pull when your Coworker is on Holiday"
 category: videos
 tags:
