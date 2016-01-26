@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline: "Coworkers on Holiday"
-title: "Pranks to pull when your coworkers are on holiday"
+subheadline: "Holiday Fun"
+title: "Prank to Pull when your Coworker is on Holiday"
 category: videos
 tags:
   - MotoGP
