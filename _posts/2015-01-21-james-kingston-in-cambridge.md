@@ -8,6 +8,7 @@ tags:
   - Parkour
 mediaplayer: true
 image:
+    title: shen-man-gym-001.jpg
     thumb: shen-man-gym-001.jpg
 ---
 <div class="flex-video widescreen youtube">
