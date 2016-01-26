@@ -120,8 +120,6 @@ defaults:
       comments: false
       author: TheShenanigan     # Default author for posts
 
-shareable: true
-	  
 
 
 #       _   __            _             __  _
