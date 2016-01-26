@@ -14,7 +14,7 @@ image:
 James Kingston, the impressive free runner, gives us a guided tour of the roofs above Cambridge, UK.
 
 <div class="flex-video widescreen youtube">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/p0ZBbPCcDSs" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KSwBT6QRUjA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [James Kingston](http://www.jameskingston.co.uk/ "jameskingston.co.uk")
