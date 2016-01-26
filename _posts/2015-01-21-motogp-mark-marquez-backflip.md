@@ -6,6 +6,9 @@ category: videos
 tags:
   - MotoGP
 mediaplayer: true
+image:
+    title: shen-man-bike-002.jpg
+    thumb: shen-man-bike-002.jpg
 ---
 Mark Marquez Backflip
 <div class="flex-video widescreen youtube">
