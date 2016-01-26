@@ -7,6 +7,16 @@ $('audio,video').mediaelementplayer();
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
+<script>
+new ShareButton({
+  networks: {
+    facebook: {
+      app_id: "{{site.facebookappid}}"
+    }
+  }
+});
+</script>
+
 
 {% if page.header.image_fullwidth %}
 <script>
