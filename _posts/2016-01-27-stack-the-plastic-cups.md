@@ -9,6 +9,7 @@ tags:
 #mediaplayer: true
 image:
     thumb: shen-man-pic-001.jpg
+teaser: "What do you do after a boozy lunch when your coworker falls asleep at their desk?"
 ---
 What do you do after a boozy lunch when your coworker falls asleep at their desk?
 
