@@ -4,7 +4,10 @@ subheadline: "Holiday Fun"
 title: "Prank to Pull when your Coworker is on Holiday"
 category: videos
 tags:
-  - MotoGP
+  - Office
+  - Work
+  - Coworker
+  - Prank
 mediaplayer: true
 image:
     title: shen-man-gardener-008.jpg
