@@ -10,7 +10,6 @@ tags:
   - Prank
 mediaplayer: true
 image:
-    title: shen-man-gardener-008.jpg
     thumb: shen-man-gardener-008.jpg
 teaser: "There's a little bit of fun to be had when your coworkers are on holiday…"
 ---
