@@ -7,6 +7,8 @@ tags:
   - POV
   - Parkour
 mediaplayer: true
+image:
+    thumb: shen-man-gym-001.jpg
 ---
 <div class="flex-video widescreen youtube">
 <iframe width="420" height="315" src="//www.youtube.com/embed/p0ZBbPCcDSs" frameborder="0" allowfullscreen></iframe>
