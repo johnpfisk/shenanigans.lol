@@ -178,7 +178,7 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           ""
 og_locale:                          "en_EN"
 og_type:                            "website"
-facebookappid:						"abc123"
+facebookappid:						"shenanigans.lol"
 
 
 #      _____            _       __   __  ___         ___
@@ -192,7 +192,7 @@ facebookappid:						"abc123"
 
 socialmedia:
     twitter: shenanigans.lol
-    facebook: shenanigans.lol
+    facebook: https://www.facebook.com/shenaniganslol-1091008300924105/
 
 
 #        ____  _
@@ -228,7 +228,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+google_analytics_tracking_id: "UA-71401985-1"
 
 
 
