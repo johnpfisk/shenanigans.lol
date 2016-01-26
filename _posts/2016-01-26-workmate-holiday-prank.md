@@ -9,8 +9,6 @@ mediaplayer: true
 image:
     title: shen-man-gardener-008.jpg
     thumb: shen-man-gardener-008.jpg
-comments:true
-share:true
 ---
 Some simple fun you can have with your coworkers keyboard while they're on holiday!
 
