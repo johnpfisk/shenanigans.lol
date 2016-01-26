@@ -39,12 +39,12 @@ format: post
 			{{ content }}
 			</div>
 
-			{% if page.show_meta == true %}
-			{% include _meta_information.html %}
-			{% endif %}
-<!-- Share -->
 			{% if page.share == true %}
 			<p><share-button></share-button></p>			
+			{% endif %}
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
 			{% endif %}
 
 			{% if page.comments == true %}
