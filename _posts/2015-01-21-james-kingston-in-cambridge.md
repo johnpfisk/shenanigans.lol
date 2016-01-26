@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "POV Parkour"
+subheadline: "Parkour"
 title: "James Kingston in Cambridge"
 category: videos
 tags:
