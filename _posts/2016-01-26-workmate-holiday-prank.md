@@ -7,8 +7,8 @@ tags:
   - MotoGP
 mediaplayer: true
 image:
-    title: shen-man-gardener-002.jpg
-    thumb: shen-man-gardener-002.jpg
+    title: shen-man-gardener-008.jpg
+    thumb: shen-man-gardener-008.jpg
 ---
 Mark Marquez Backflip
 <div class="flex-video widescreen youtube">
