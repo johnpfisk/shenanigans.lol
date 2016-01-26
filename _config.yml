@@ -109,7 +109,8 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: TheShenanigan     # Default author for pages
+	  share: true
   -
     scope:
       path: ""
@@ -118,8 +119,9 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
+      author: TheShenanigan     # Default author for posts
+	  share: true
+	  
 
 
 #       _   __            _             __  _
